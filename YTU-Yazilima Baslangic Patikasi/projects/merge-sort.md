@@ -1,6 +1,5 @@
 # PROJE-2 (Merge Sort Projesi)
  ## [16,21,11,8,12,22] -> Merge Sort
- ---
 - ### Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 ### çözüm:
 **1)** [16,21,11,8,12,22] dizisini ikiye bölelim.
@@ -13,3 +12,5 @@
 - ### Big-O gösterimini yazınız.
 ### cevap: 
 O(nLogn) 'dir.
+
+www.patika.dev
