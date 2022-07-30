@@ -1,7 +1,7 @@
 # PROJE-3 (Binary Search Tree Projesi) 
 
 - ## [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
-![Binary Search Tree](bstree.png)
+![Binary Search Tree](binary-search-tree.png)
  ==Binary search tree'ye eleman eklemeye root'dan başlanır. eklenecek eleman,root elemandan büyükse root'un sağ tarafına;eklenecek eleman root elemandan küçükse,root'un sol tarafına eklenerek ilerlenir.== 
 
 ---
