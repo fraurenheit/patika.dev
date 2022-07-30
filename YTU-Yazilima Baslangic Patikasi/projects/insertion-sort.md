@@ -70,7 +70,7 @@ Big-O'da domine eden fonksiyon alınır,burada n^2 domine eden fonksiyon olduğu
 ---
 ### 4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
-- 18 sayısı dizinin ortanca değeri olduğu için,avarage case kapsamına girer.
+- 18 sayısı dizinin ortanca değeri olduğu için,avarage case kapsamına girmektedir.
 
 ---
 
