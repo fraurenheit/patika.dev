@@ -87,3 +87,5 @@ Big-O'da domine eden fonksiyon alınır,burada n^2 domine eden fonksiyon olduğu
 
 #### 4.adım : 
 - [2,3,4,5,6,9,8,15,7]
+
+www.patika.dev
