@@ -14,6 +14,7 @@
 
 **6)** Son olarak,iki grup da birleştirilir. [8,11,12,16,21,22]
 
+
 - ### Big-O gösterimini yazınız.
 ### cevap: 
 O(nLogn) 'dir.
