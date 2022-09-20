@@ -1,5 +1,6 @@
 # Screenshot of the homework 
 <br>
+
 ![todo-pic](https://user-images.githubusercontent.com/66425078/191341681-85dfcfd6-b7e6-4875-8bb3-731bfef45b4e.png)
 
 # Getting Started with Create React App
