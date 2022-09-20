@@ -24,7 +24,7 @@ function App() {
 
 function calculateObject(){
   console.log("Calculating...");
-  for(let i=0; i<1000000000 ; i++) {}
+  for(let i=0; i<1000000000; i++) {}
   console.log("Calculating completed.");
 
   return {name: "Fran"};
