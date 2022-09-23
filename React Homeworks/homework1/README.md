@@ -1,5 +1,5 @@
 
-# Screenshots of the homework 
+# Screenshots of the homework
 <br>
 
 ![odev1 1](https://user-images.githubusercontent.com/66425078/191344311-ede9fb7e-880d-41cb-98c6-50bc3341494a.png)
