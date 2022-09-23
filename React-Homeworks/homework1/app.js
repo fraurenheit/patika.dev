@@ -9,4 +9,5 @@ const GetData = async (user_id) => {
     return lastData;
 }
 
+
 export default GetData;
