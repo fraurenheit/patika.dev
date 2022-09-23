@@ -61,4 +61,5 @@ function Footer({ todos, setTodos, setHide }) {
     );
 }
 
+
 export default Footer;
