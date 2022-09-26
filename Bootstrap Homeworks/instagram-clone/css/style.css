@@ -1,9 +1,20 @@
+body{
+  padding-top: 54px;
+  background-color: #FAFAFA;
+}
+
 ::placeholder{
   text-align: center;
   font-size: 14px;
   color: gray;
+  background-image: url(../assets/search-solid.svg);
+  background-repeat: no-repeat;
   background-position: 40%;
   background-size: 6%;
+}
+
+.middlearea{
+  max-height: 200px !important;
 }
 
 input.empty {
@@ -43,4 +54,11 @@ input.empty {
 .rightpanellinks:hover {
   text-decoration: none;
   color: lightgrey;
+}
+
+.rightpanel{
+  background-color: white;
+  border: none;
+  position: sticky;
+  top: 65px;
 }
